@@ -4,6 +4,8 @@
 
 - Active Directory Home Lab
 
+- Active Directory Basics: Tryhackme
+
 <h2>📺 Certificates </h2>
 
 - Google Cybersecurity Certificate
