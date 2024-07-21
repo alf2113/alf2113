@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- Active Directory Home Lab
 
 <h2>📺 Certificates </h2>
-Google Cybersecurity Certificate
-Comptia Sec+
+
+- Google Cybersecurity Certificate
+
+- Comptia Sec+
 
 <h2> 🤳 Connect with me:</h2> 
 www.linkedin.com/in/alfredo-a-r-43a487284
