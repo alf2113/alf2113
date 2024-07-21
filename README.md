@@ -11,6 +11,7 @@
 - Comptia Sec+
 
 <h2> 🤳 Connect with me:</h2> 
+
 www.linkedin.com/in/alfredo-a-r-43a487284
 
 <!--
